@@ -44,5 +44,4 @@ load_dotenv()
 - **Event-Driven Architecture**: Facilitates real-time decision-making and looping over actions.
 - **Dynamic Tool Selection**: The ReAct agent chooses the best tool based on the query.
 - **Memory and Reflection**: The agent can reflect on past interactions and adjust its responses.
-- **Optimized Query Processing**: Uses LlamaIndex workflows to enhance data retrieval and reasoning.
 
